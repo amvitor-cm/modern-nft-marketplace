@@ -6,7 +6,7 @@ NeoNFT is a modern, responsive NFT marketplace built with vanilla HTML, CSS, and
 
 ## Live Demo
 
-[View Live Demo](https://modern-nft-marketplace.netlify.app/)
+[View Live Demo](https://nft-marketplace-yixr.vercel.app)
 
 ## Features
 
