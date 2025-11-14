@@ -85,7 +85,7 @@ This project is for demonstration purposes. Source code is private.
 
 ## Contact
 
-For inquiries about this project, please refer to the live demo link above.
+For inquiries about this project, please refer to amvitor.cm@gmail.com.
 
 ---
 
