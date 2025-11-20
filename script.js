@@ -324,8 +324,8 @@ function handleFileUpload(input) {
 function handleSearch(event) {
     const query = event.target.value.toLowerCase();
     if (query.length > 2) {
-        // In a real app, you would make an API call here
-        // For now, we'll just filter our mock data
+        
+        //  mock data
         const results = mockNFTs.filter(nft => 
             nft.name.toLowerCase().includes(query) || 
             nft.creator.toLowerCase().includes(query)
