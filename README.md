@@ -2,7 +2,7 @@
 
 ## Overview
 
-NeoNFT is a modern, responsive NFT marketplace built with vanilla HTML, CSS, and JavaScript. The platform features a clean, professional design with light/dark mode toggle, wallet integration, and comprehensive NFT browsing capabilities.
+NeoNFT is a modern, responsive frontend-only NFT marketplace built with vanilla HTML, CSS, and JavaScript. The platform features a clean, professional design with light/dark mode toggle, wallet integration, and comprehensive NFT browsing capabilities.
 
 ## Live Demo
 
@@ -85,8 +85,11 @@ This project is for demonstration purposes. Source code is private.
 
 ## Contact
 
-For inquiries about this project, please refer to amvitor.cm@gmail.com.
+## Contact
+- If you’d like access to the full source code for this project, feel free to reach out:
 
+- Email: amvitor.cm@gmail.com
+- Telegram: @amvior
 ---
 
 Built with modern web standards and best practices for performance and user experience.
