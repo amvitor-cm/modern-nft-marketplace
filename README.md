@@ -1,4 +1,4 @@
-# NeoNFT - Modern NFT Marketplace
+# NeoNFT - Modern NFT Marketplace Responsive Portfolio Project
 
 ## Overview
 
